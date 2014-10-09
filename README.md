@@ -1,7 +1,7 @@
 aspnet-vnext-service-dashboard-demo
 ===================================
 
-An example services dashboard built using ASP.NET vNext.
+An example service status dashboard built using ASP.NET vNext.
 
 
 This app makes requests in parallel against the urls specified in config.json and renders their status in a dashboard page. Please visit http://localhost:5004 after setting it up to see the dashboard.
