@@ -10,6 +10,8 @@ I mainly built it to learn how to do dependency injection, configuration managem
 
 It was built without Visual Studio and with just sublime text editor.
 
+![Service Status Dashboard](https://github.com/govin/aspnet-vnext-service-dashboard-demo/blob/master/Service%20Information%20Dashboard.png "Service-Status")
+
 To run,
 
 1. Install Mono
@@ -30,5 +32,5 @@ Kestrel is the new C# web server based on libuv (so there is no dependency with 
 For mac, folks, there is a home brew version named "kmono".
 
 
-![Service Status Dashboard](https://github.com/govin/aspnet-vnext-service-dashboard-demo/blob/master/Service%20Information%20Dashboard.png "Service-Status")
+
 
