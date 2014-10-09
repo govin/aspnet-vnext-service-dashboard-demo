@@ -29,3 +29,6 @@ Kestrel is the new C# web server based on libuv (so there is no dependency with 
 
 For mac, folks, there is a home brew version named "kmono".
 
+
+![Service Status Dashboard](https://github.com/govin/aspnet-vnext-service-dashboard-demoimg.jpg "Service-Status")
+
