@@ -1,12 +1,12 @@
 aspnet-vnext-service-dashboard-demo
 ===================================
 
-An example services dashboard built using ASP.NET VNext.
+An example services dashboard built using ASP.NET vNext.
 
 
 This app makes requests in parallel against the urls specified in config.json and renders their status in a dashboard page. Please visit http://localhost:5004 after setting it up to see the dashboard.
 
-I mainly built it to learn how to do dependency injection, configuration management, making async requests, serving requests, files and rendering views are done in ASP.NET VNext, the next version of ASP.NET. It is fully supported on linux and mac. 
+I mainly built it to learn how to do dependency injection, configuration management, making async requests, serving requests, files and rendering views are done in ASP.NET vNext, the next version of ASP.NET. It is fully supported on linux and mac. 
 
 There is no need for Visual Studio. It was built with just Sublime.
 
