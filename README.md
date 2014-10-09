@@ -18,10 +18,10 @@ To run,
 	```
 	curl https://raw.githubusercontent.com/aspnet/Home/master/kvminstall.sh | sh && source ~/.kre/kvm/kvm.sh
 	```
-	
+
 3. Run "kvm upgrade"
 3. CD in ServiceDashboard directory and perform "kpm restore"
-4. Type K kestrel
+4. Type k kestrel
 
 For more installation details, refer to the ASP.NET Vnext repo - [ASPNET VNext](https://github.com/aspnet/home)
 
