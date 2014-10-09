@@ -30,7 +30,7 @@ To run,
 
 5. Visit http://localhost:5004
 
-For more installation details, refer to the ASP.NET Vnext repo - [ASPNET VNext](https://github.com/aspnet/home)
+For more installation details, refer to the ASP.NET Vnext repo - [ASPNET vNext](https://github.com/aspnet/home)
 
 Kestrel is the new C# web server based on libuv (so there is no dependency with IIS) [Kestrel] (https://github.com/aspnet/KestrelHttpServer)
 
