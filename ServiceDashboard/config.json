@@ -1,0 +1,5 @@
+{
+    "DefaultAdminUsername": "Administrator@test.com",
+    "DefaultAdminPassword": "YouShouldChangeThisPassword1!",
+    "ServiceUrls": "http://www.google.com,http://www.bing.com,http://www.yahoo.com,http://www.opentable.com,http://www.cnn.com"
+}
