@@ -13,7 +13,10 @@ It was built without Visual Studio and with just sublime text editor.
 To run,
 
 1. Install Mono
-2. Install KVM and upgrade it
+2. Install KVM using the comand
+	```
+	curl https://raw.githubusercontent.com/aspnet/Home/master/kvminstall.sh | sh && source ~/.kre/kvm/kvm.sh
+3. Run "kvm upgrade"
 3. CD in ServiceDashboard directory and perform "kpm restore"
 4. Type K kestrel
 
