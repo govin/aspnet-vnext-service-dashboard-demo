@@ -19,11 +19,11 @@ namespace AspNetVNext.ServiceDashboard
 			var hostIp = NetworkExtensions.GetIpAddress(new Uri(url).Host);
 			return new ServiceStatusModel()
 			{
-                ServiceName = name,
-                Status = status,
-                StatusUrl = url,
-                HostIp = hostIp,
-                ResponseTimeMS = responseTimeMS
+				ServiceName = name,
+				Status = status,
+				StatusUrl = url,
+				HostIp = hostIp,
+				ResponseTimeMS = responseTimeMS
 			};
 		}
 

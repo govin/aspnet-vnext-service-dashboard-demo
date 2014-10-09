@@ -5,11 +5,11 @@ using System.Collections.Generic;
 
 namespace AspNetVNext.ServiceDashboard
 {
-    public class StringController : Controller
-    {
-        public string Get()
-        {
-            return "Hello World";
-        }
-    }
+	public class StringController : Controller
+	{
+		public string Get()
+		{
+			return "Hello World";
+		}
+	}
 }
