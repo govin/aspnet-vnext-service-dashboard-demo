@@ -15,6 +15,7 @@ There is no need for Visual Studio. It was built with just Sublime.
 To run,
 
 1. Install Mono
+
 2. Install KVM using the comand
 
 	```
@@ -22,7 +23,9 @@ To run,
 	```
 
 3. Run "kvm upgrade"
+
 3. CD in ServiceDashboard directory and perform "kpm restore"
+
 4. Type k kestrel
 
 For more installation details, refer to the ASP.NET Vnext repo - [ASPNET VNext](https://github.com/aspnet/home)
