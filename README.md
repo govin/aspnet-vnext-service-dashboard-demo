@@ -24,7 +24,7 @@ To run,
 
 3. Run "kvm upgrade"
 
-3. CD in ServiceDashboard directory and perform "kpm restore"
+3. CD in ServiceDashboard directory and run "kpm restore"
 
 4. Type k kestrel
 
