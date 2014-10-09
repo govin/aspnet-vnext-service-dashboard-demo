@@ -29,7 +29,7 @@ For more installation details, refer to the ASP.NET Vnext repo - [ASPNET VNext](
 
 Kestrel is the new C# web server based on libuv (so there is no dependency with IIS) [Kestrel] (https://github.com/aspnet/KestrelHttpServer)
 
-For mac, folks, there is a home brew version named "kmono".
+For mac folks, there is a home brew version named "kmono".
 
 
 
