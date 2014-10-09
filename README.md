@@ -8,7 +8,7 @@ This app makes requests in parallel against the urls specified in config.json an
 
 I mainly built it to learn how to do dependency injection, configuration management, making async requests, serving requests, files and rendering views are done in ASP.NET VNext, the next version of ASP.NET. It is fully supported on linux and mac. 
 
-It was built without Visual Studio and with just sublime text editor.
+There is no need for Visual Studio. It was built with just Sublime.
 
 ![Service Status Dashboard](https://github.com/govin/aspnet-vnext-service-dashboard-demo/blob/master/Service%20Information%20Dashboard.png "Service-Status")
 
