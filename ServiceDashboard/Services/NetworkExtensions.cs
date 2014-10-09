@@ -17,11 +17,11 @@ namespace AspNetVNext.ServiceDashboard
 				{
 					ipaddr = ipAddress.ToString();
 				}
-				}
-				catch (Exception)
-				{
+			}
+		    catch (Exception)
+			{
 				// suppress error on purpose - return empty string when not being able to retrieve ip address.
-				}
+			}
 
 			return ipaddr;
 		}
